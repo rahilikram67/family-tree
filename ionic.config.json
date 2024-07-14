@@ -1,0 +1,7 @@
+{
+  "name": "family-tree",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
